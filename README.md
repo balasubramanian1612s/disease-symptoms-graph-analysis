@@ -7,4 +7,4 @@
 [Click Here](https://github.com/balasubramanian1612s/disease-symptoms-graph-analysis/blob/66e1b5c55f234d8abdb5949babd102cf7bccf702/disease.ipynb)
 
 ### Dataset Link
-[Click Here](https://github.com/balasubramanian1612s/disease-symptoms-graph-analysis/blob/66e1b5c55f234d8abdb5949babd102cf7bccf702/disease.csv)
+[Click Here](https://github.com/balasubramanian1612s/disease-symptoms-graph-analysis/blob/1f0caa5d9fdfce0f32086af64bcd4fda88273d23/dataset.csv)
